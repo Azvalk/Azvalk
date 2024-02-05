@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there '-'
+```
+I'm 31, game programmer.
+Always happy to create innovative and refined gameplay.
+Interested in tool, UI, and gameplay.
+```
 
-<!--
-**Azvalk/Azvalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Language and tool
+- **Language**: C, C++, C#, Java
+- **Game Engine**: Unity, Unreal engine 5
+- **API/Framework**: CSFML / SFML
+- **Versionning**: GitHub desktop, Perforce Helix
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://visitor-badge.laobi.icu/badge?page_id=azvalk.azvalk)
+[![Github](https://img.shields.io/github/followers/azvalk?label=Follow&style=social)](https://github.com/azvalk)
