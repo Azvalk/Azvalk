@@ -1,8 +1,8 @@
 # Hi there '-'
 ```
-I'm 31, game programmer.
+I'm 32, game programmer.
 Always happy to create innovative and refined gameplay.
-Interested in tool, UI, and gameplay.
+Interested in tool, gameplay, and artificial inteligence.
 ```
 
 ## Language and tool
